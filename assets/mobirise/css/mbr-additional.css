@@ -478,11 +478,11 @@ h6,
 #menu-b .close-icon::after {
   background-color: #ffffff;
 }
-#form1-38 .form-control-label {
-  color: #232323;
-}
 #footer1-c P {
   font-size: 10px;
+}
+#form1-38 .form-control-label {
+  color: #232323;
 }
 
 #menu-f .hide-buttons .nav-btn {
@@ -551,13 +551,15 @@ h6,
 #footer1-g P {
   font-size: 10px;
 }
-#msg-box8-h .mbr-section-title,
-#msg-box8-h p {
-  color: #fff;
-}
 #msg-box8-m .mbr-section-title,
 #msg-box8-m p {
   color: #fff;
+}
+#msg-box8-m .lead DIV {
+  color: #ffffff;
+}
+#msg-box8-m .lead I {
+  color: #ffffff;
 }
 
 #menu-t .hide-buttons .nav-btn {

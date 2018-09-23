@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page4.html",
     "name": "ערי דניאל ארליך",
     "theme": {
       "name": "mobirise3",
@@ -132,64 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ערי דניאל ארליך - קריין</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">מחירון</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">&nbsp;דוגמאות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">סרטי תדמית</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">פרסומות</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">דיבוב</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">טלפוניה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-4\" aria-expanded=\"false\">אודות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">קצת עלי</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studio.html\">אולפן ההקלטה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">צרו קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "צרו קשר!",
-          "subtitle": "מלאו את הפרטים ואחזור אליכם במהרה...",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">יאללה</a>",
-          "form": {
-            "action": "vegandog@gmail.com",
-            "alerts": {
-              "success": "תודה! אחזור אליך בהקדם"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "שם"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "דוא״ל"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "טלפון"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "הודעה"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          },
-          "_anchor": "form1-38"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">מחירון</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">&nbsp;דוגמאות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">סרטי תדמית</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">פרסומות</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">דיבוב</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">טלפוניה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-4\" aria-expanded=\"false\">אודות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">קצת עלי</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studio.html\">אולפן ההקלטה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">צרו קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -268,6 +211,63 @@
           "title": "האולפן שלי",
           "text": "את האולפן שלי בניתי בעצמי בתוך ביתי שבצפון תל אביב. למרות שמדובר באולפן ביתי, הוא מרגיש כמו אולפן מקצועי, ומעניק סאונד מדהים!&nbsp;האולפן ממומקם בחדר פנימי שקט, אטום ואקוסטי. <br>ציוד ההקלטה שלי הוא&nbsp;ציוד מקצועי, חדיש ומשוכלל ביותר:<br>אני מקליט עם מיקרופון מסוג RØDE Broadcaster<br>קדם מגבר של&nbsp;Scarlett | Focusrite<br>על מחשב MacBook Pro עם תוכנת Adobe Audition<br><br>יש ברשותי&nbsp;אפשרות לקידוד קבצי הסאונד לכל סוגי הפורמטים הקיימים (כולל פורמטים נדירים לטלפוניה)<br>אפשרות לנוכחות בסקייפ באולפן<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "צרו קשר!",
+          "subtitle": "מלאו את הפרטים ואחזור אליכם במהרה...",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">יאללה</a>",
+          "form": {
+            "action": "vegandog@gmail.com",
+            "alerts": {
+              "success": "תודה! אחזור אליך בהקדם"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "שם"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "דוא״ל"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "טלפון"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "הודעה"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-38"
         }
       ]
     },
@@ -366,7 +366,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ערי דניאל ארליך - קריין</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">מחירון</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">&nbsp;דוגמאות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">סרטי תדמית</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">פרסומות</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">דיבוב</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">טלפוניה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-4\" aria-expanded=\"false\">אודות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">קצת עלי</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studio.html\">אולפן ההקלטה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">צרו קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">מחירון</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">&nbsp;דוגמאות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">סרטי תדמית</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">פרסומות</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">דיבוב</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">טלפוניה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-4\" aria-expanded=\"false\">אודות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">קצת עלי</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studio.html\">אולפן ההקלטה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">צרו קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -394,40 +394,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-h",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mic2-2000x846.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Eri Daniel Erlich",
-          "text": "<p>Hebrew voice over artist</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            ".lead DIV": {
+              "color": "#ffffff"
+            },
+            ".lead I": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -442,7 +414,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -456,8 +428,8 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.3"
           },
-          "title": "this website is under construction",
-          "text": "<p>Article header with background imge and parallax effect.</p>",
+          "title": "Hebrew voice over artist<br>Eri Daniel Erlich&nbsp;",
+          "text": "<b><i>this website is under</i></b><div><b><i>construction</i></b></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -571,7 +543,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ערי דניאל ארליך - קריין</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">מחירון</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">&nbsp;דוגמאות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">סרטי תדמית</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">פרסומות</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">דיבוב</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">טלפוניה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-4\" aria-expanded=\"false\">אודות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">קצת עלי</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studio.html\">אולפן ההקלטה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">צרו קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">מחירון</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">&nbsp;דוגמאות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">סרטי תדמית</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">פרסומות</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">דיבוב</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">טלפוניה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-4\" aria-expanded=\"false\">אודות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">קצת עלי</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studio.html\">אולפן ההקלטה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">צרו קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -813,7 +785,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ערי דניאל ארליך - קריין</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">מחירון</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">&nbsp;דוגמאות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">סרטי תדמית</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">פרסומות</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">דיבוב</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">טלפוניה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-4\" aria-expanded=\"false\">אודות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">קצת עלי</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studio.html\">אולפן ההקלטה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">צרו קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">מחירון</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">&nbsp;דוגמאות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">סרטי תדמית</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">פרסומות</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">דיבוב</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">טלפוניה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-4\" aria-expanded=\"false\">אודות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">קצת עלי</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studio.html\">אולפן ההקלטה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">צרו קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -1237,7 +1209,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "title": "סרטי תדמית",
+          "title": "סרטי תדמית&nbsp;",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -1928,7 +1900,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ערי דניאל ארליך - קריין</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">מחירון</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">&nbsp;דוגמאות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">סרטי תדמית</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">פרסומות</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">דיבוב</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">טלפוניה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-4\" aria-expanded=\"false\">אודות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">קצת עלי</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studio.html\">אולפן ההקלטה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">צרו קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">מחירון</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">&nbsp;דוגמאות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">סרטי תדמית</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">פרסומות</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">דיבוב</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">טלפוניה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-4\" aria-expanded=\"false\">אודות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">קצת עלי</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studio.html\">אולפן ההקלטה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">צרו קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-2p"
         },
         {
@@ -2092,7 +2064,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ערי דניאל ארליך - קריין</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">מחירון</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">&nbsp;דוגמאות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">סרטי תדמית</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">פרסומות</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">דיבוב</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">טלפוניה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-4\" aria-expanded=\"false\">אודות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">קצת עלי</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studio.html\">אולפן ההקלטה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">צרו קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">מחירון</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"English.html\" aria-expanded=\"false\">English</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-a\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">&nbsp;דוגמאות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">סרטי תדמית</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">פרסומות</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">דיבוב</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">טלפוניה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box8-4\" aria-expanded=\"false\">אודות</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">קצת עלי</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studio.html\">אולפן ההקלטה</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">צרו קשר</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-3a"
         },
         {
