@@ -19,14 +19,15 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": true
-      }
+      },
+      "additionalSetColors": []
     },
     "favicon": "@PROJECT_PATH@/assets/images/logo1-1.gif",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
     "versionFirst": "3.12",
-    "uniqCompNum": 88,
+    "uniqCompNum": 95,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -766,37 +767,101 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": "1",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "filterBgColor": true,
-            "bgColor": "#000000",
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
             "showText": true,
-            "filter": false,
+            "filter": true,
             "images": [
               {
-                "tags": "Animated",
+                "tags": "Eri",
                 "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=jmhE0hMJM7M",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1280-800x533.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=0zLQw0UfnT8",
+                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "alt": "",
-                "caption": "קריינות לסרטי תדמית",
-                "active": false,
-                "title": ""
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "HHH",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=0zLQw0UfnT8",
+                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=0uVGBc6sVHY",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1280-800x533.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
                 "alt": "",
-                "caption": "קריינות לסרטי תדמית",
-                "active": true,
-                "title": ""
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/table.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -805,8 +870,8 @@
           ],
           "articleLayout": false,
           "allItem": "All",
-          "_name": "gallery3",
-          "_anchor": "gallery3-2f"
+          "_name": "gallery4",
+          "_anchor": "gallery4-2h"
         },
         {
           "_styles": {
